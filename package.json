@@ -27,7 +27,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-video",
+  "mcpName": "io.github.itsryanarmani/agentic-video",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
